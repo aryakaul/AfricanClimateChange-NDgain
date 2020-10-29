@@ -1,4 +1,5 @@
 matplotlib
-cartopy
-pandas
+numpy
 ipywidgets
+pandas
+cartopy
